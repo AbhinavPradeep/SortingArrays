@@ -1,0 +1,12 @@
+/Users/013253/Dev/SortingArrays/bin/Debug/netcoreapp3.1/SortingArrays.deps.json
+/Users/013253/Dev/SortingArrays/bin/Debug/netcoreapp3.1/SortingArrays.runtimeconfig.json
+/Users/013253/Dev/SortingArrays/bin/Debug/netcoreapp3.1/SortingArrays.runtimeconfig.dev.json
+/Users/013253/Dev/SortingArrays/bin/Debug/netcoreapp3.1/SortingArrays.dll
+/Users/013253/Dev/SortingArrays/bin/Debug/netcoreapp3.1/SortingArrays.pdb
+/Users/013253/Dev/SortingArrays/obj/Debug/netcoreapp3.1/SortingArrays.csprojAssemblyReference.cache
+/Users/013253/Dev/SortingArrays/obj/Debug/netcoreapp3.1/SortingArrays.csproj.CoreCompileInputs.cache
+/Users/013253/Dev/SortingArrays/obj/Debug/netcoreapp3.1/SortingArrays.AssemblyInfoInputs.cache
+/Users/013253/Dev/SortingArrays/obj/Debug/netcoreapp3.1/SortingArrays.AssemblyInfo.cs
+/Users/013253/Dev/SortingArrays/obj/Debug/netcoreapp3.1/SortingArrays.dll
+/Users/013253/Dev/SortingArrays/obj/Debug/netcoreapp3.1/SortingArrays.pdb
+/Users/013253/Dev/SortingArrays/obj/Debug/netcoreapp3.1/SortingArrays.genruntimeconfig.cache
