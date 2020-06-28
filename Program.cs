@@ -9,20 +9,24 @@ namespace SortingArrays
             BubbleSort bubbleSort = new BubbleSort();
             InsertionSort insertionSort = new InsertionSort();
             SelectionSort selectionSort = new SelectionSort();
+            ShellSort shellSort = new ShellSort();
             PrintArray printArray = new PrintArray();
             Console.Write("Unsorted Array \n");
-            int[] Array = new int[] {1234134,234239423,4234,234823,4234,234,23948,2349,234,2394,2398423,4293423,42342384,23,423,8942,3948,23842,348384};
+            int[] Array = new int[] {9,8,7,6,5,4,3,2,1};
             printArray.PrintIntegerArray(Array);
             Console.Write("\n");
-            Console.Write("\n");
-            Console.Write("Bubble Sorted Array \n");
-            bubbleSort.Sort(Array);
             Console.Write("\n");
             Console.Write("Insertion Sorted Array \n");
             insertionSort.Sort(Array);
             Console.Write("\n");
+            Console.Write("Bubble Sorted Array \n");
+            bubbleSort.Sort(Array);
+            Console.Write("\n");
             Console.Write("Selection Sorted Array \n");
             selectionSort.Sort(Array);
+            Console.Write("\n");
+            Console.Write("Shell Sorted Array \n");
+            shellSort.Sort(Array,9);
         }
     }
 }
